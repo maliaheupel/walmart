@@ -10,7 +10,7 @@ This repository contains our team's ETL data pipeline, weather API integration, 
 
 ## Repository Layout
 ```
-walmart-hurricane-project/
+walmart/
 ├── CHARTER.md                # Team charter and working agreements
 ├── README.md                 # Project summary and documentation
 ├── data/                     # Raw transaction files and SQLite database
